@@ -1,8 +1,5 @@
 package com.atguigu.mybatis.test;
 
-import com.atguigu.mybatis.mapper.EmpMapper;
-import com.atguigu.mybatis.pojo.Emp;
-import com.atguigu.mybatis.pojo.EmpExample;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
@@ -11,7 +8,6 @@ import org.junit.Test;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.List;
 
 /**
  * Date:2021/11/30

@@ -1,8 +1,5 @@
 package com.atguigu.mybatis.test;
 
-import com.atguigu.mybatis.mapper.EmpMapper;
-import com.atguigu.mybatis.pojo.Emp;
-import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 import org.apache.ibatis.io.Resources;
